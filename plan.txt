@@ -1,0 +1,4 @@
+计算机基础
+python爬虫 深度学习 图像可视化 django
+javase js vue
+mysql sqlite
